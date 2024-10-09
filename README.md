@@ -12,7 +12,7 @@ I'm a seasoned software developer from Norway, with a passion for crafting effic
 ## 💡 My Expertise
 
 - **Programming Languages**: Java (Spring Boot), Golang, Python, JavaScript (React), SQL
-- **DevOps & CI/CD**: Jenkins, Terraform, Docker, Kubernetes
+- **DevOps & CI/CD**: Jenkins, GitHub, Terraform, Docker, Kubernetes
 - **Cloud Services**: AWS, OpenShift
 - **Databases**: PostgreSQL, SQLite, DynamoDB
 - **Other Tools**: Linux, tmux, i3, neovim
@@ -30,7 +30,7 @@ I'm a seasoned software developer from Norway, with a passion for crafting effic
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mats-faugli)
+- LinkedIn: [linkedin.com/in/mats-faugli](https://www.linkedin.com/in/mats-faugli)
 - GitHub: [github.com/fowlie](https://github.com/fowlie)
 
 Looking forward to connecting and collaborating on exciting projects!
