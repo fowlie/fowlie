@@ -24,13 +24,4 @@ I'm a seasoned software developer from Norway, with a passion for crafting effic
 - **Passionate Mentor**: I enjoy sharing my knowledge and helping junior developers grow in their careers.
 - **Collaborative Team Player**: I thrive in environments where communication and teamwork are key, and I'm always looking to bring positive energy to any team.
 
-## 🚧 What I'm Working On
-
-- Oh, that's right - gotta spend some time with my kids for now..
-
-## 📫 Get in Touch
-
-- LinkedIn: [linkedin.com/in/mats-faugli](https://www.linkedin.com/in/mats-faugli)
-- GitHub: [github.com/fowlie](https://github.com/fowlie)
-
 Looking forward to connecting and collaborating on exciting projects!
