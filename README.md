@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Fowlie 👋
 
-<!--
-**fowlie/fowlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a seasoned software developer from Norway, with a passion for crafting efficient, scalable, and maintainable solutions. With extensive experience in backend development, I'm always excited to tackle challenging problems, learn new technologies, and collaborate on innovative projects.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Currently working as a backend developer at a consulting firm in Oslo.
+- 🎸 Prog rock enthusiast and sci-fi book lover.
+- 🧠 Enjoy exploring complex topics like quantum physics and building ergonomic keyboards.
+- 👨‍👧 Father of three, balancing the joys of parenthood with my love for coding.
+
+## 💡 My Expertise
+
+- **Programming Languages**: Java (Spring Boot), Golang, Python, JavaScript (React), SQL
+- **DevOps & CI/CD**: Jenkins, Terraform, Docker, Kubernetes
+- **Cloud Services**: AWS, OpenShift
+- **Databases**: PostgreSQL, SQLite, DynamoDB
+- **Other Tools**: Linux, tmux, i3, neovim
+
+## 🌟 Why Work With Me?
+
+- **Strong Backend Skills**: I excel in building robust APIs, microservices, and backend systems, ensuring scalability and performance.
+- **Problem Solver**: My approach is always to understand the root cause of a problem before diving into solutions, ensuring that my work is precise and effective.
+- **Passionate Mentor**: I enjoy sharing my knowledge and helping junior developers grow in their careers.
+- **Collaborative Team Player**: I thrive in environments where communication and teamwork are key, and I'm always looking to bring positive energy to any team.
+
+## 🚧 What I'm Working On
+
+- Oh, that's right - gotta spend some time with my kids for now..
+
+## 📫 Get in Touch
+
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mats-faugli)
+- GitHub: [github.com/fowlie](https://github.com/fowlie)
+
+Looking forward to connecting and collaborating on exciting projects!
