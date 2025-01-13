@@ -24,4 +24,8 @@ I'm a seasoned software developer from Norway, with a passion for crafting effic
 - **Passionate Mentor**: I enjoy sharing my knowledge and helping junior developers grow in their careers.
 - **Collaborative Team Player**: I thrive in environments where communication and teamwork are key, and I'm always looking to bring positive energy to any team.
 
+## 📞Reach me
+
+- **At mastadon**: <a rel="me" href="https://mastodon.social/@fowlie">@fowlie</a>
+
 Looking forward to connecting and collaborating on exciting projects!
