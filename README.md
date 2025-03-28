@@ -4,7 +4,7 @@ I'm a seasoned software developer from Norway, with a passion for crafting effic
 
 ## 👨‍💻 About Me
 
-- 💼 Currently working as a backend developer at a consulting firm in Oslo.
+- 💼 Currently working as a backend developer at DELTA Consulting in Oslo.
 - 🎸 Prog rock enthusiast and sci-fi book lover.
 - 🧠 Enjoy exploring complex topics like quantum physics and building ergonomic keyboards.
 - 👨‍👧 Father of three, balancing the joys of parenthood with my love for coding.
@@ -26,6 +26,7 @@ I'm a seasoned software developer from Norway, with a passion for crafting effic
 
 ## 📞Reach me
 
+- **At LinkedIn**: <a rel="me" href="https://www.linkedin.com/in/mats-faugli">@mats faugli</a>
 - **At mastadon**: <a rel="me" href="https://mastodon.social/@fowlie">@fowlie</a>
 
 Looking forward to connecting and collaborating on exciting projects!
